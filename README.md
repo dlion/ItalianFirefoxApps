@@ -38,3 +38,5 @@ Altre app sul MarketPlace
 [Radio Rai](https://marketplace.firefox.com/app/radio-rai) - Ascolta lo Streaming dai canali radio della Rai
 
 [BusFirenze](https://marketplace.firefox.com/app/busfirenze) - Trova gli orari dei bus a Firenze
+
+[ScoutGamesZola](https://marketplace.firefox.com/app/scoutgameszola) - Database di giochi per ragazzi 
