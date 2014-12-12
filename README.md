@@ -2,7 +2,8 @@ ItalianFirefoxApps
 ==================
 
 Una lista di tutte le applicazioni per Firefox OS in Italiano presenti sul Marketplace
-Mandate una pull se avete qualche app da aggiungere alla Lista
+
+Mandate una pull se avete qualche app da aggiungere alla Lista. 
 
 Apps for Italy 
 --------------
