@@ -15,7 +15,7 @@ News
 
 [gabrycaos](https://marketplace.firefox.com/app/gabrycaos) - Notizie dal blog di gabrycaos
 
-[MSN]
+[MSN](https://marketplace.firefox.com/app/msn) - Riepilogo dalla homepage MSN
 
 
 Mobilità
@@ -31,9 +31,9 @@ Mobilità
 
 Messaggistica
 -------------
-[OpenWapp]
+[OpenWapp](https://marketplace.firefox.com/app/openwapp) - Whatsapp client per Firefox OS
 
-[Telegram]
+[Telegram](https://marketplace.firefox.com/app/telegram) - Messaggistica criptata multidispositivo
 
 
 Informazioni
@@ -47,7 +47,7 @@ Informazioni
 
 Social
 ------
-[Twitter]
+[Twitter](https://marketplace.firefox.com/app/twitter) - applicazione ufficiale twitter
 
 Altro
 -----
