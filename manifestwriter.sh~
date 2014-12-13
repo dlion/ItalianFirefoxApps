@@ -1,0 +1,11 @@
+#!/bin/bash  
+echo "insert app name"
+read name
+echo "insert app description"
+read description
+echo "insert version"
+read version
+echo "insert app type"
+read apptype
+echo "{\r\t'name':$name,\r\t'description':$description,\r\t'version':$version,\r\t'type':$apptype \r}" > manifest.webapp
+
