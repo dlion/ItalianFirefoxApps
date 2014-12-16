@@ -5,6 +5,11 @@ Una lista di tutte le applicazioni per Firefox OS in Italiano presenti sul Marke
 
 Mandate una pull se avete qualche app da aggiungere alla Lista. 
 
+Bug Tracking
+--------
+[Bug 1111643](https://bugzilla.mozilla.org/show_bug.cgi?id=1111643) - Siccome sul Marketplace non è possibile effettuare ricerche delle app che supportano le propria lingua nativa, ho segnalato il bug su bugzilla, sperando che chiunque compri un nuovo dispositivo possa trovare immediatamente le applicazioni giuste, anche se non conosce l'inglese.
+
+
 News 
 --------------
 [quotidiani online](https://marketplace.firefox.com/app/quotidiani-online) - Notizie dai quotidiani online
