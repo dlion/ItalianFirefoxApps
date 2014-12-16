@@ -15,6 +15,8 @@ News
 
 [gabrycaos](https://marketplace.firefox.com/app/gabrycaos) - Notizie dal blog di gabrycaos
 
+[Nicokant94](https://marketplace.firefox.com/app/nicokant94) - Notizie dal blog di nicokant
+
 [MSN](https://marketplace.firefox.com/app/msn) - Riepilogo dalla homepage MSN
 
 
