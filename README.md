@@ -68,3 +68,4 @@ Altro
 
 [ScoutGamesZola](https://marketplace.firefox.com/app/scoutgameszola) - Database di giochi per ragazzi 
 
+[LibrettoUniversitario](https://marketplace.firefox.com/app/libretto-universitario/) - Libretto Universitario
